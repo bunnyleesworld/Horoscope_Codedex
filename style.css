@@ -1,4 +1,5 @@
 body {
+  flex: auto;
   background-image: url();
   background-repeat: repeat-x;
   background: rgb(240, 240, 156);
