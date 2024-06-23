@@ -1,0 +1,58 @@
+body {
+  background-image: url();
+  background-repeat: repeat-x;
+  background: rgb(240, 240, 156);
+  background: radial-gradient(
+    circle,
+    rgba(0, 0, 0, 0.028124999999999956) 0% rgba(253, 187, 45, 1) 100%
+  );
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.container {
+  background: rgb(243, 132, 132);
+  width: 400px;
+  margin: 0 auto;
+  border: 2px solid #535de4;
+  padding: 20px;
+  color: white;
+  border-radius: 15px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #915bba;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  margin: 10px;
+}
+
+#zSymbol {
+  margin: 10px;
+}
+
+#label,
+#result,
+#result2,
+#result3 {
+  font-weight: bold;
+}
+
+#result2 {
+  padding: 10px;
+}
+
+#result3 {
+  margin: 10px;
+}
+
+#signOff {
+  color: deeppink;
+}
